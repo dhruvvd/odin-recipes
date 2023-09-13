@@ -40,3 +40,16 @@ html {
     color: olivedrab;
     font-weight: 600;
 }
+
+#tacos {
+    background-color: burlywood;
+}
+
+.titletacos {
+    color: maroon;
+}
+
+.ptacos {
+    color: olivedrab;
+    font-weight: 600;
+}
