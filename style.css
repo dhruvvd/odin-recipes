@@ -2,10 +2,14 @@ html {
     background-color: burlywood;
 }
 
-
-#title {
-    text-align: center;
+.titlefetalf, .titlemac, .titletacos {
     color: maroon;
+}
+
+
+.pfetalf, .pmac, .ptacos {
+    color: olivedrab;
+    font-weight: 600;
 }
 
 
@@ -15,41 +19,8 @@ html {
     color: maroon;
 }
 
-#fetalf {
-    background-color: burlywood;
-}
 
-.titlefetalf {
+#title {
+    text-align: center;
     color: maroon;
-}
-
-.pfetalf {
-    color: olivedrab;
-    font-weight: 600;
-}
-
-#mac {
-    background-color: burlywood;
-}
-
-.titlemac {
-    color: maroon;
-}
-
-.pmac {
-    color: olivedrab;
-    font-weight: 600;
-}
-
-#tacos {
-    background-color: burlywood;
-}
-
-.titletacos {
-    color: maroon;
-}
-
-.ptacos {
-    color: olivedrab;
-    font-weight: 600;
 }
